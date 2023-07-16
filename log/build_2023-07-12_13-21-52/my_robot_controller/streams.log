@@ -1,0 +1,24 @@
+[4.037s] Invoking command in '/home/ubuntu/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/ubuntu/ros2_ws/build/my_robot_controller/prefix_override:/home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ubuntu/ros2_ws/build/my_robot_controller/build install --record /home/ubuntu/ros2_ws/build/my_robot_controller/install.log --install-scripts $base/lib/my_robot_controller --single-version-externally-managed
+[4.677s] running egg_info
+[4.684s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[4.684s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[4.686s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[4.687s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[4.687s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[4.816s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[4.837s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[4.838s] running build
+[4.838s] running build_py
+[4.838s] copying my_robot_controller/my_first_node.py -> /home/ubuntu/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.838s] running install
+[4.846s] running install_lib
+[4.850s] copying /home/ubuntu/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller
+[4.852s] byte-compiling /home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-38.pyc
+[4.854s] running install_data
+[4.856s] running install_egg_info
+[4.862s] removing '/home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller-0.0.0-py3.8.egg-info' (and everything under it)
+[4.863s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller-0.0.0-py3.8.egg-info
+[4.889s] running install_scripts
+[4.939s] Installing test_node script to /home/ubuntu/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.947s] writing list of installed files to '/home/ubuntu/ros2_ws/build/my_robot_controller/install.log'
+[4.986s] Invoked command in '/home/ubuntu/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/my_robot_controller/prefix_override:/home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ubuntu/ros2_ws/build/my_robot_controller/build install --record /home/ubuntu/ros2_ws/build/my_robot_controller/install.log --install-scripts $base/lib/my_robot_controller --single-version-externally-managed
